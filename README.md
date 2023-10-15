@@ -67,7 +67,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-ankush&show_icons=true&locale=en&layout=compact" alt="ab-ankush" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-ankush&show_icons=true&locale=en&layout=compact&theme=dark" alt="ab-ankush" /></p>
 
 ###
 
